@@ -1,0 +1,19 @@
+.first-box{
+	border: 1px solid #ccc;
+	background-color: #e7e7e77d;
+}
+
+.list{
+	border: 1px solid #ccc;
+}
+
+@media (min-width: 768px){
+.container {
+    width: 96%;
+}
+}
+@media (max-width: 768px){
+.container {
+    width: 80%;
+}
+}
